@@ -1,0 +1,10 @@
+body{background-color: black}
+h1{font-family: "Gill Sans", sans-serif; color: #cc7fff;}
+h2{font-family: "Helvetica", sans-serif; color: #7fe1ff;}
+p{font-family: "Helvetica", sans-serif; color: white;}
+ul {list-style: none; font-family: "Gill Sans", sans-serif; color: deeppink;}
+a{font-family: "Gill Sans",sans-serif;}
+a:link {color: Yellow;}
+a:visited {color: orange;}
+a:hover {color: white;}
+sup{color: aqua}
